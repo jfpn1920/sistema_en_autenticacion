@@ -7,7 +7,7 @@ Este proyecto consiste en el desarrollo de un sistema de autenticación de usuar
 
 El sistema permite registrar nuevos usuarios, iniciar sesión y mostrar los usuarios registrados mediante un menú interactivo en consola. Cada operación de autenticación se realiza mediante funciones reutilizables, garantizando una estructura organizada y modular del código.
 
-El programa valida que los usuarios ingresen correctamente su nombre de usuario y contraseña, proporcionando retroalimentación inmediata en caso de error o éxito. Esto permite simular un sistema básico de control de acceso.
+El programa valida que los usuarios ingresen correctamente su nombre de usuario y contraseña, proporcionando retroalimentación inmediata en caso de error o éxito. Esto permite simular un sistema básico de control de acceso. Esta estructura no solo simula un sistema básico de autenticación, sino que también refuerza la organización de la información y la experiencia del usuario al interactuar con el programa de manera intuitiva y confiable.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
